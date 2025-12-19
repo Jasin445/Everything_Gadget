@@ -582,6 +582,8 @@ hr{
         justify-content: safe;
         gap:160px;
         flex-wrap: wrap;
+        background-color:#121212;
+        color: white;
     }
 
     .suscribe{
