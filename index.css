@@ -4,7 +4,6 @@
     padding:0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
-    background-color: white;
 }
 
 .home > ul > li  > a{
@@ -491,7 +490,6 @@ p.taint{
     width:75%;
     flex-wrap: wrap;
     gap:100px;
-    background-color:#121212;
     justify-content:safe;
     gap:unset;
     margin:auto;
@@ -582,8 +580,6 @@ hr{
         justify-content: safe;
         gap:160px;
         flex-wrap: wrap;
-        background-color:#121212;
-        color: white;
     }
 
     .suscribe{
