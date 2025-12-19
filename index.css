@@ -491,6 +491,7 @@ p.taint{
     width:75%;
     flex-wrap: wrap;
     gap:100px;
+    background-color:#121212;
     justify-content:safe;
     gap:unset;
     margin:auto;
