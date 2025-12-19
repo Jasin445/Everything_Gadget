@@ -495,6 +495,7 @@ p.taint{
     justify-content:safe;
     gap:unset;
     margin:auto;
+    color:white;
     position: relative;
     top:88px;
     left:0px;
